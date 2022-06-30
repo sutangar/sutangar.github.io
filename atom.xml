@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://sutangar.github.io</id>
+    <title>Sutang的博客</title>
+    <updated>2022-06-30T06:32:53.991Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://sutangar.github.io"/>
+    <link rel="self" href="https://sutangar.github.io/atom.xml"/>
+    <subtitle>人无意义的出生，伴随着弱小而生存，因偶然而死去</subtitle>
+    <logo>https://sutangar.github.io/images/avatar.png</logo>
+    <icon>https://sutangar.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Sutang的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[links]]></title>
+        <id>https://sutangar.github.io/links/</id>
+        <link href="https://sutangar.github.io/links/">
+        </link>
+        <updated>2022-06-19T01:14:02.000Z</updated>
+        <content type="html"><![CDATA[<p>1.2.3.4</p>
+]]></content>
+    </entry>
+</feed>
