@@ -4,13 +4,27 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2024/01/21/hello-world/"/>
-    <url>/2024/01/21/hello-world/</url>
+    <title>2024 年新年展望</title>
+    <link href="/2024/01/22/2024%20%E5%B9%B4%E4%B8%AA%E4%BA%BA%E6%96%B0%E5%B9%B4%E5%B1%95%E6%9C%9B/"/>
+    <url>/2024/01/22/2024%20%E5%B9%B4%E4%B8%AA%E4%BA%BA%E6%96%B0%E5%B9%B4%E5%B1%95%E6%9C%9B/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>你好，我是<strong>酥糖</strong>。新年计划本来应该早就写好的，但计划总是因为这样那样的原因被推迟，于是就从计划变成展望了（笑）。对我来说，2024 年将是一个繁忙而重要的节点（明年需要准备考研、毕业，今年将是打牢科研基础的最后一年），为了省事这一组织工作就用 SMART 原则来完成啦。</p><h2 id="年度目标"><a href="#年度目标" class="headerlink" title="年度目标"></a>年度目标</h2><p>按照 SMART 原则，首先明确我所需要、且可达成的目标，然后设定时限，并列出相关材料或资源。我需要①良好地完成两个学期的学业和竞赛（专业课成绩保持 90+，获至少两项省部级奖项）；②确切地打牢人文地理学的科研基础（精细地学习三本教科书 <sup id="fnref:1" class="footnote-ref"><a href="#fn:1" rel="footnote"><span class="hint--top hint--rounded" aria-label="顾朝林《人文地理学导论》 | 李小建《经济地理学》 | *Cresswell*.Geographic Thought">[1]</span></a></sup>，翻译字典 300 词条发布博客并同时制作 mdx <sup id="fnref:2" class="footnote-ref"><a href="#fn:2" rel="footnote"><span class="hint--top hint--rounded" aria-label="The Dictionary of Human Geography.5th Edition.">[2]</span></a></sup>，阅读至少 10 本专著，翻译或撰写一批至少 40 篇质量良好的百科条目，写至少20篇地理学和科研相关博文笔记）；③补齐外语能力短板（英语每天独立阅读英语地理学博客、有一定阅读学术材料能力，通过 CET6 考试；日语打好基础，词汇量至少达到2000可以开始习得性学习）；④提升计算机能力（入门 Python 和 R 并学习到可独立解决问题的地步，通过 NCRE3 考试）；⑤其他能力提升和考研准备（古代汉语四本书，数学基础三本书的学习，利用间隔重复学习考研政治，学习哲学，练字）。</p><h2 id="实现方案"><a href="#实现方案" class="headerlink" title="实现方案"></a>实现方案</h2><p>最后，作为一名“长期主义者”，今年仍然将贯彻完全基于 Anki 的<strong>间隔重复</strong>原则建构个人知识和能力系统，将学习当作长线任务而不是短期行为（功利化的应试）来进行，并利用这个博客将自己的思考的碎片记录下来，提升考试外的应用能力。</p><p><img src="/%5Cimg%5C2024%5C2024_01_workflow.png" alt="Fg1.Workflow"></p><h2 id="注释和参考文献"><a href="#注释和参考文献" class="headerlink" title="注释和参考文献"></a>注释和参考文献</h2><section class="footnotes"><div class="footnote-list"><ol><li><span id="fn:1" class="footnote-text"><span>顾朝林《人文地理学导论》 | 李小建《经济地理学》 | <em>Cresswell</em>.Geographic Thought<a href="#fnref:1" rev="footnote" class="footnote-backref"> ↩</a></span></span></li><li><span id="fn:2" class="footnote-text"><span>The Dictionary of Human Geography.5th Edition.<a href="#fnref:2" rev="footnote" class="footnote-backref"> ↩</a></span></span></li></ol></div></section>]]></content>
     
     
+    <categories>
+      
+      <category>Diary</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>计划</tag>
+      
+      <tag>考试</tag>
+      
+    </tags>
     
   </entry>
   
