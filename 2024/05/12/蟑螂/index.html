@@ -69,7 +69,7 @@
 <div class="widgets">
 
 
-<widget class="widget-wrapper post-list"><div class="widget-header dis-select"><span class="name">最近更新</span></div><div class="widget-body fs14"><a class="item title" href="/2024/05/15/%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E5%BB%BA%E8%AE%BE%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%9C%80%E5%B0%8F%E9%97%AD%E7%8E%AF%E7%9A%84/"><span class="title">我学习的最小闭环</span></a><a class="item title" href="/2024/05/12/%E8%9F%91%E8%9E%82/"><span class="title">蟑螂</span></a><a class="item title" href="/2024/05/13/%E5%9C%A8%20Hexo%20%E4%B8%AD%E4%BD%BF%E7%94%A8%E5%8A%A9%E8%AE%B0%E5%AA%92%E4%BB%8B%20Orbit/"><span class="title">在 Hexo 中使用助记媒介 Orbit</span></a></div></widget>
+<widget class="widget-wrapper post-list"><div class="widget-header dis-select"><span class="name">最近更新</span></div><div class="widget-body fs14"><a class="item title" href="/2024/05/15/%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E5%BB%BA%E8%AE%BE%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%9C%80%E5%B0%8F%E9%97%AD%E7%8E%AF%E7%9A%84/"><span class="title">我学习的最小闭环</span></a><a class="item title" href="/2024/06/22/%E5%8C%BA%E5%9F%9F%E5%B9%B3%E5%9D%87%E9%99%8D%E6%B0%B4%E9%87%8F%E7%9A%84%E5%AE%A2%E8%A7%82%E8%BF%90%E8%A1%8C%E6%B3%95%E8%AE%A1%E7%AE%97/"><span class="title">区域平均降水量的客观运行法计算</span></a><a class="item title" href="/2024/05/12/%E8%9F%91%E8%9E%82/"><span class="title">蟑螂</span></a><a class="item title" href="/2024/05/13/%E5%9C%A8%20Hexo%20%E4%B8%AD%E4%BD%BF%E7%94%A8%E5%8A%A9%E8%AE%B0%E5%AA%92%E4%BB%8B%20Orbit/"><span class="title">在 Hexo 中使用助记媒介 Orbit</span></a></div></widget>
 </div>
 <footer class="footer dis-select"><div class="social-wrap"><a class="social" href="https://www.qiuwenbaike.cn/wiki/User:Sutara" target="_blank" rel="external nofollow noopener noreferrer"><img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" data-src="/img/qiuwen_logo.svg"></a></div></footer>
 </div></aside><div class="l_main" id="main">
@@ -467,6 +467,26 @@
       })
     }
   });
+</script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+    processEscapes: true
+  }
+});
+MathJax.Hub.Config({
+  tex2jax: {
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+  }
+});
+MathJax.Hub.Queue(function() {
+  var all = MathJax.Hub.getAllJax(), i;
+  for(i=0; i < all.length; i += 1) {
+    all[i].SourceElement().parentNode.className += ' has-jax';
+  }
+});
 </script>
 <script>
   document.addEventListener('DOMContentLoaded', function () {
