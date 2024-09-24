@@ -1,10 +1,12 @@
 {
     "title":"知海札记",
-    "subTitle":"[或理在方寸而求之域表，或義在咫尺而思隔山河。](https://zh.wikisource.org/zh/%E6%96%87%E5%BF%83%E9%9B%95%E9%BE%8D/%E7%A5%9E%E6%80%9D)",
+    "subTitle":"或理在方寸而求之域表，或義在咫尺而思隔山河。",
     "avatarUrl":"https://github.com/sutangar/picx-images-hosting/raw/master/CatReadMarx.1zi867bw4f.webp",
     "faviconUrl":"https://github.com/sutangar/picx-images-hosting/raw/master/1f9c0.6bh1dqimf3.svg",
-    "bottomText":"[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)",
-    "startSite":"23/09/2024",
-    "style":"<style>#postBody{font-size:20px}</style>",
+    "UTC":8,
+    "bottomText":"如无特别声明，承诺遵循 CC0 1.0 协议，允许无限制复制、修改、发行和演绎",
+    "urlMode":"pinyin",
+    "startSite":"15/09/2024",
+    "style":"<style>a.blogTitle {font-family: "SimSun", "宋体", serif;}</style>",
     "GMEEK_VERSION":"last"
 }
