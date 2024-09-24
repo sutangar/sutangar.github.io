@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>知海札记</title><link>https://sutangar.github.io</link><description>或理在方寸而求之域表，或義在咫尺而思隔山河。</description><copyright>知海札记</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.com/sutangar/picx-images-hosting/raw/master/CatReadMarx.1zi867bw4f.webp</url><title>avatar</title><link>https://sutangar.github.io</link></image><lastBuildDate>Tue, 24 Sep 2024 04:35:03 +0000</lastBuildDate><managingEditor>知海札记</managingEditor><ttl>60</ttl><webMaster>知海札记</webMaster><item><title>利用客观运行法计算区域平均降水量的方法</title><link>https://sutangar.github.io/post/li-yong-ke-guan-yun-xing-fa-ji-suan-qu-yu-ping-jun-jiang-shui-liang-de-fang-fa.html</link><description>通过**客观运行法**计算格点 $j$ 的降雨量 $x_j$，首先计算每个雨量站到格点 $j$ 的距离平方倒数，并用该倒数加权每个雨量站的降雨量。最终的降雨量 $x_j$ 是加权降雨量之和除以距离平方倒数之和的结果。&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>知海札记</title><link>https://sutangar.github.io</link><description>或理在方寸而求之域表，或義在咫尺而思隔山河。</description><copyright>知海札记</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.com/sutangar/picx-images-hosting/raw/master/CatReadMarx.1zi867bw4f.webp</url><title>avatar</title><link>https://sutangar.github.io</link></image><lastBuildDate>Tue, 24 Sep 2024 04:35:36 +0000</lastBuildDate><managingEditor>知海札记</managingEditor><ttl>60</ttl><webMaster>知海札记</webMaster><item><title>利用客观运行法计算区域平均降水量的方法</title><link>https://sutangar.github.io/post/li-yong-ke-guan-yun-xing-fa-ji-suan-qu-yu-ping-jun-jiang-shui-liang-de-fang-fa.html</link><description>通过**客观运行法**计算格点 $j$ 的降雨量 $x_j$，首先计算每个雨量站到格点 $j$ 的距离平方倒数，并用该倒数加权每个雨量站的降雨量。最终的降雨量 $x_j$ 是加权降雨量之和除以距离平方倒数之和的结果。&#13;
 &#13;
 一步步地计算格点$j$的降雨量$x_j$，使用**客观运行法**，也就是距离平方倒数法。方法需要用到的变量和概念：&#13;
 &#13;
@@ -29,19 +29,4 @@ $$&#13;
 x_j = \frac{\sum_{i=1}^{m} \left( \frac{P_i}{d_i^2} \right)}{\sum_{i=1}^{m} \left( \frac{1}{d_i^2} \right)} &#13;
 $$&#13;
 &#13;
-这个结果$x_j$就是格点$j$的估计降雨量，你可以画图试试看。&#13;
-&#13;
-## 小测试&#13;
-假设有两个雨量站，第一个雨量站距离格点 $j$ 1千米，降雨量为10毫米；第二个雨量站距离格点 $j$ 2千米，降雨量为5毫米，求格点 $j$ 的降雨量。&#13;
-&#13;
----&#13;
-&#13;
-计算过程如下：&#13;
-- 距离平方倒数分别是 $\frac{1}{1^2} = 1$ 和 $\frac{1}{2^2} = 0.25$。&#13;
-- 加权降雨量分别是 $\frac{10}{1} = 10$ 和 $\frac{5}{4} = 1.25$。&#13;
-- 总和分别是 $10 + 1.25 = 11.25$ 和 $1 + 0.25 = 1.25$。&#13;
-- 格点$j$的降雨量为 $\frac{11.25}{1.25} = 9$毫米。&#13;
-这样就一步步用客观运行法计算出了格点$j$的降雨量。&#13;
-&#13;
-## 参考来源&#13;
-* [1] 管华．水文学［M］．北京：科学出版社，2010．✦</description><guid isPermaLink="true">https://sutangar.github.io/post/li-yong-ke-guan-yun-xing-fa-ji-suan-qu-yu-ping-jun-jiang-shui-liang-de-fang-fa.html</guid><pubDate>Mon, 16 Sep 2024 15:07:41 +0000</pubDate></item></channel></rss>
+这个结果$x_j$就是格点$j$的估计降雨量，你可以画图试试看。✦</description><guid isPermaLink="true">https://sutangar.github.io/post/li-yong-ke-guan-yun-xing-fa-ji-suan-qu-yu-ping-jun-jiang-shui-liang-de-fang-fa.html</guid><pubDate>Mon, 16 Sep 2024 15:07:41 +0000</pubDate></item></channel></rss>
